@@ -1,4 +1,5 @@
 # TS Validator using Open AI
+This application utilizes the OpenAI API and employs prompt engineering methodologies like few-shot examples and chain of thought reasoning to validate TypeScript files and detect bugs within them. 
 
 
 ## Introduction
